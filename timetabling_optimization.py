@@ -3,7 +3,7 @@ import pandas as pd
 from ortools.linear_solver import pywraplp
 
 
-AllData = pd.ExcelFile("Problem Set 3 - Input Data.xlsx")
+AllData = pd.ExcelFile("timetabling_input.xlsx")
 StudentCourseData = pd.read_excel(AllData, 'StudentCourse')
 TeacherCourseData = pd.read_excel(AllData, 'TeacherCourse')
 TeacherBlockData = pd.read_excel(AllData, 'TeacherDay')

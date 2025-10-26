@@ -1,0 +1,4 @@
+pandas>=2.0
+ortools>=9.9
+openpyxl>=3.1
+time
