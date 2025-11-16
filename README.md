@@ -48,3 +48,6 @@ project_root/
 ├── requirements.txt
 └── timetabling_input.xlsx
 ```
+
+---
+## Starter code from Richard Hoshino and completed as part of CS5100 Foundations of Artificial Intelligence
